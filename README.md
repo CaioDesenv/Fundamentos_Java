@@ -1,6 +1,6 @@
 # Fundamentos_Java_Senac RS
- programas e com fundamentos em JAVA, (arrays, double, int, float e muito mais!)
-
+ programas para treinar os fundamentos em JAVA, (arrays, double, int, float e muito mais!)
+ 
 Neste repositorio coloquei 5 exercicios 
 
 1) Com relação ao atendimento a eventos, o hotel necessita de uma
