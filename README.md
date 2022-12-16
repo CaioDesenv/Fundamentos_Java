@@ -52,6 +52,7 @@ usuário informará hóspedes até digitar a palavra “PARE”, que interrompe
 a entrada de dados. Ao fim, o programa deve mostrar a quantidade de
 gratuidades, a quantidade de meias hospedagens e o valor total,
 considerando todos os hóspedes informados.
+
                      Exemplo:
                      [Entrada de dados]
                      100 (R$ valor padrão da diária)
@@ -72,6 +73,7 @@ considerando todos os hóspedes informados.
                      [Saída de dados]
                      Total de hospedagens: R$150; 1 gratuidade(s); 1
                      meia(s)
+                     
 4. Monte um algoritmo em que o usuário poderá cadastrar e pesquisar
 hóspedes. O algoritmo deve oferecer um menu com três opções ao
 usuário: 1- cadastrar; 2- pesquisar; 3- sair. A opção “cadastrar” deve
